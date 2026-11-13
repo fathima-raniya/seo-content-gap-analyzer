@@ -1,0 +1,7 @@
+streamlit>=1.52
+altair>=5
+requests
+beautifulsoup4
+scikit-learn
+pandas
+numpy
